@@ -1,0 +1,31 @@
+#contenido{
+    white-space: normal;
+    width:40%;
+}
+form{
+    background-color:rgb(169, 167, 165);
+    color:black;
+    text-align: left;
+    margin: 2%;
+    padding: 2%;
+  }
+p{
+   
+    font-weight:bold;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    border: solid 2px aquamarine;
+}
+input{
+    border-radius: 5px;
+    padding: 3px;
+}
+.btn {
+    background-color: aquamarine; 
+    color: black; 
+    border: 2px solid rgb(78, 78, 77);
+    border-radius: 10px;
+    padding: 1%;
+}
